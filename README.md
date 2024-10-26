@@ -1,18 +1,18 @@
 # Awesome-Cloud-Computing-Datasets
 
-* [Dataset](#dataset)
-  + [Infrastructure as Code](#es Remarkainfrastructure-as-code)
+* [Datasets](#datasets)
+  + [Infrastructure as Code](#infrastructure-as-code)
 * [Case studies](#case-studies)
 * [Academic Surveys](#academic-surveys)
 
 
-## Dataset
+## Datasets
 
 ### Infrastructure as Code
 - The PIPr Dataset of Public Infrastructure as Code Programs, [paper](https://dl.acm.org/doi/pdf/10.1145/3643991.3644888), [source](https://zenodo.org/records/10173400), [crawler](). *contact in the project*: **Jolan Philippe**
 
 
-## Use Case
+## Case Studies
 
 ### Self hosted application (with K8S,...)
 
